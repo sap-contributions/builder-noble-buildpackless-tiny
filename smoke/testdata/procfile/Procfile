@@ -1,0 +1,2 @@
+amd64-process: ./static-file-server-2.28.0-linux-amd64 --config-file config.toml
+arm64-process: ./static-file-server-2.28.0-linux-arm64 --config-file config.toml
